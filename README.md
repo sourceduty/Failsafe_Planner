@@ -429,6 +429,20 @@ if __name__ == "__main__":
     main(sample_data, output_file)
 ```
 
+#### Explanation:
+
+1. **Setup Logging**: Logging is configured to record messages in a log file with a timestamp. The `log_and_raise` function logs an error message and raises an exception to ensure errors are properly handled and recorded.
+
+2. **Validate Input Data**: The `validate_data` function checks if the input data is a list of numbers. If the validation fails, it logs the error and raises an appropriate exception.
+
+3. **Process Data**: The `process_data` function validates the data and processes it (in this case, squaring each number). Any errors during processing are logged and an exception is raised.
+
+4. **Save Results to File**: The `save_results` function writes the processed data to a file. Errors during file operations are logged and an exception is raised.
+
+5. **Main Function**: The `main` function orchestrates the workflow, from data processing to saving results, with logging at each step to track progress and errors.
+
+This failsafe plan ensures that errors are caught early, logged for review, and that the script can handle unexpected issues gracefully.
+
 <br>
 </details>
 
@@ -462,23 +476,6 @@ Implementing this Python failsafe workflow offers numerous benefits:
 #### Conclusion
 
 An automated Python failsafe plan is a robust solution for ensuring the reliability and efficiency of data processing workflows. By combining comprehensive logging, stringent input validation, and detailed error tracking, it provides a failsafe mechanism that can handle unexpected issues gracefully and continuously improve over time. This innovative approach is essential for any organization looking to enhance the robustness of their automated processes.
-
-<br>
-</details>
-
-#### Explanation:
-
-1. **Setup Logging**: Logging is configured to record messages in a log file with a timestamp. The `log_and_raise` function logs an error message and raises an exception to ensure errors are properly handled and recorded.
-
-2. **Validate Input Data**: The `validate_data` function checks if the input data is a list of numbers. If the validation fails, it logs the error and raises an appropriate exception.
-
-3. **Process Data**: The `process_data` function validates the data and processes it (in this case, squaring each number). Any errors during processing are logged and an exception is raised.
-
-4. **Save Results to File**: The `save_results` function writes the processed data to a file. Errors during file operations are logged and an exception is raised.
-
-5. **Main Function**: The `main` function orchestrates the workflow, from data processing to saving results, with logging at each step to track progress and errors.
-
-This failsafe plan ensures that errors are caught early, logged for review, and that the script can handle unexpected issues gracefully.
 
 <br>
 </details>
