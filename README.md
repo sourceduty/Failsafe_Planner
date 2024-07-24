@@ -16,19 +16,19 @@ Moreover, the Failsafe Planner GPT maintains a comprehensive understanding of hi
 <details><summary>Failsafe Plan Example</summary>
 <br>
 
-## Failsafe Plan Example
+#### Failsafe Plan Example
 
-### Objective:
+#### Objective:
 Create a failsafe plan for launching a new product in a tech company to avoid common business planning errors.
 
-### Step 1: Define Clear Objectives
+#### Step 1: Define Clear Objectives
 - **Primary Goal:** Successfully launch the new product by Q3 2024.
 - **Secondary Goals:**
   - Achieve a 10% market share within the first year.
   - Gain positive reviews from at least 75% of early adopters.
   - Ensure the product has less than 1% defect rate.
 
-### Step 2: Identify Potential Risks and Historic Errors
+#### Step 2: Identify Potential Risks and Historic Errors
 1. **Insufficient Market Research**
    - **Historic Example:** Nokia's failure to adapt to smartphone trends due to poor market research.
    - **Mitigation Strategy:** Conduct comprehensive market research including competitor analysis, customer surveys, and trend analysis.
@@ -49,7 +49,7 @@ Create a failsafe plan for launching a new product in a tech company to avoid co
    - **Historic Example:** COVID-19 pandemic causing global supply chain breakdowns.
    - **Mitigation Strategy:** Establish multiple suppliers, maintain a buffer inventory, and have contingency plans for supply chain disruptions.
 
-### Step 3: Develop a Detailed Action Plan
+#### Step 3: Develop a Detailed Action Plan
 1. **Market Research**
    - Conduct surveys and focus groups.
    - Analyze competitors’ strengths and weaknesses.
@@ -75,17 +75,17 @@ Create a failsafe plan for launching a new product in a tech company to avoid co
    - Maintain a safety stock of critical components.
    - Develop contingency plans for potential supply chain issues.
 
-### Step 4: Monitor and Review
+#### Step 4: Monitor and Review
 - **Regular Reviews:** Schedule bi-weekly project review meetings to assess progress and address issues.
 - **Feedback Mechanism:** Set up a feedback loop with customers and stakeholders to identify and resolve issues promptly.
 - **Risk Assessment:** Continuously monitor for new risks and update the failsafe plan accordingly.
 
-### Step 5: Post-Launch Evaluation
+#### Step 5: Post-Launch Evaluation
 - **Performance Analysis:** Assess the product’s performance against initial goals (market share, customer satisfaction, defect rates).
 - **Lessons Learned:** Conduct a post-mortem analysis to understand what worked and what didn’t.
 - **Continuous Improvement:** Use insights from the evaluation to improve future product launches and refine the failsafe plan.
 
-### Conclusion
+#### Conclusion
 By learning from historic business planning errors and implementing these strategies, the tech company can significantly reduce the risk of failure and increase the chances of a successful product launch.
 
 <br>
