@@ -429,6 +429,9 @@ if __name__ == "__main__":
     main(sample_data, output_file)
 ```
 
+<br>
+</details>
+
 #
 ### Notes
 
