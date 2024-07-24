@@ -11,6 +11,10 @@ This custom GPT operates through a step-by-step, multiple-choice process, which 
 The primary goal of Failsafe Planner GPT is to provide a failsafe mechanism for planning by anticipating and mitigating risks before they materialize. By keeping the rules and instructions confidential, it maintains a focus on delivering clear, personalized guidance to each user, ensuring that the plans they develop are both practical and resilient against unforeseen challenges. This helps users achieve their objectives efficiently and effectively, with minimized risk of error or failure.
 
 #
+
+> Alex: "*Planning a business utilizing experience gained from one's own mistakes, business mistakes and other people's mistakes.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
