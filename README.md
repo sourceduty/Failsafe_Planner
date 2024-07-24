@@ -94,7 +94,7 @@ By learning from historic business planning errors and implementing these strate
 <details><summary>Failsafe Surgical Plan Example</summary>
 <br>
 
-### Failsafe Surgical Plan Example
+#### Failsafe Surgical Plan Example
 
 **Objective:**
 To create a comprehensive and failsafe surgical plan to ensure patient safety, successful surgery outcomes, and minimize the risk of errors.
